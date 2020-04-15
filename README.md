@@ -14,11 +14,11 @@ Your AP's creds, and home assistant API token are defined in the script in plain
 
 ## Requirements
 
-Python 3
-paramiko library (`pip install paramiko`)
-Home Assistant
-OpenWRT on your wireless access points
-At least 2 AP's to make this worthwhile.
+* Python 3
+* paramiko library (`pip install paramiko`)
+* Home Assistant
+* OpenWRT on your wireless access points
+* At least 2 AP's to make this worthwhile.
 
 ## Setup
 * Clone the repo
